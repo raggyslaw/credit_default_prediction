@@ -51,10 +51,7 @@
 <pre>
 ├── data/                  # Raw and processed datasets
 ├── notebooks/             # Jupyter notebooks for EDA, modeling, tuning
-├── models/                # Saved models (optional)
-├── utils/                 # Custom functions and feature generators
 ├── outputs/               # Results, visualizations, and reports
-├── requirements.txt       # Python dependencies
 └── README.md              # You're here!
 </pre>
 
@@ -72,9 +69,6 @@
   <li>✅ Dual-model strategy (Voting vs Calibrated) for practical use</li>
   <li>✅ Cross-validation and threshold optimization applied</li>
 </ul>
-
-<h2>📄 License</h2>
-<p>This project is released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
 <hr>
 <p align="center">
